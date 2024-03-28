@@ -1,4 +1,7 @@
-[i3TOUCH](https://www.i3-technologies.com/en/products/touchscreens/) whiteboard remote files for Flipper Zero.
+[i3TOUCH](https://www.i3-technologies.com/en/products/touchscreens/) whiteboard remote files for Flipper Zero
+
+### [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/sobakinmontazer/i3touch-flipper-zero/blob/main/i3touch.ir)<br/>
+### [Download](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/sobakinmontazer/i3touch-flipper-zero/blob/main/i3touch_old_ver.ir) (older version)
 
 # Buttons
 - Power
